@@ -1,0 +1,41 @@
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A1BG.fasta -fastaout aligned_A1BG.fasta
+finish MSA A1BG
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A1CF.fasta -fastaout aligned_A1CF.fasta
+finish MSA A1CF
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A2M.fasta -fastaout aligned_A2M.fasta
+finish MSA A2M
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A2ML1.fasta -fastaout aligned_A2ML1.fasta
+finish MSA A2ML1
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A3GALT2.fasta -fastaout aligned_A3GALT2.fasta
+finish MSA A3GALT2
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A4GALT.fasta -fastaout aligned_A4GALT.fasta
+finish MSA A4GALT
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$A4GNT.fasta -fastaout aligned_A4GNT.fasta
+finish MSA A4GNT
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$AAAS.fasta -fastaout aligned_AAAS.fasta
+finish MSA AAAS
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$AACS.fasta -fastaout aligned_AACS.fasta
+finish MSA AACS
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$ACAT2.fasta -fastaout aligned_ACAT2.fasta
+finish MSA ACAT2
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$BOLA2.fasta -fastaout aligned_BOLA2.fasta
+finish MSA BOLA2
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$CHD1L.fasta -fastaout aligned_CHD1L.fasta
+finish MSA CHD1L
+
+/home/xiao/run_MSA_testing/muscle3.8.31_i86linux64 -in all_seqs_with_latin_names\$CREB3.fasta -fastaout aligned_CREB3.fasta
+finish MSA CREB3
+
+Time Used: --- 50.8778510094 seconds ---
+
